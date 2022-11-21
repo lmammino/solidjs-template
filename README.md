@@ -15,6 +15,15 @@ To bootstrap a new project based on this template you can run:
 npx degit lmammino/solidjs-template <name-of-your-project>
 ```
 
+Then you can cd your new folder and run:
+
+```bash
+npm install
+npm run dev
+```
+
+This will start a new dev server and run your project in dev mode.
+
 
 ## Available Scripts
 
@@ -36,6 +45,11 @@ It correctly bundles Solid in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
+
+
+### `npm run lint` and `npm run lint:fix`
+
+Used to trigger ESLint and validate your code style.
 
 
 ## Deployment

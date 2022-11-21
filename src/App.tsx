@@ -1,7 +1,8 @@
+import { JSX } from 'solid-js/jsx-runtime'
 import logo from './logo.svg'
 import styles from './App.module.css'
 
-function App () {
+function App (): JSX.Element {
   return (
     <div class={styles.App}>
       <header class={styles.header}>
