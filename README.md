@@ -1,5 +1,3 @@
-> **Warning**: Deprecated. Use `npx degit solidjs/templates/ts my-solid-project` instead.
-
 # Solid.js starter template
 
 A dead simple Solid.js starter template built with the following assumptions:
@@ -8,6 +6,8 @@ A dead simple Solid.js starter template built with the following assumptions:
   - You use `ESLint` and `StandardJS`
   - You use `TypeScript`
 
+
+> **Note**: This project is inspired by [`solidjs/templates/ts`](https://github.com/solidjs/templates/tree/master/ts) but with some additional customisations.
 
 ## Usage
 
