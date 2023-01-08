@@ -1,3 +1,5 @@
+> **Warning**: Deprecated. Use `npx degit solidjs/templates/ts my-solid-project` instead.
+
 # Solid.js starter template
 
 A dead simple Solid.js starter template built with the following assumptions:
